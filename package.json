@@ -7,7 +7,7 @@
     "axios": "^0.18.0",
     "google-maps-react": "^2.0.2",
     "google-places-web": "^0.1.10",
-    "node-sass": "^4.11.0",
+    "node-sass": "^7.0.0",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "react-geolocated": "^2.4.0",
